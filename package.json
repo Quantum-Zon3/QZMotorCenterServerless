@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Quantum-Zon3/QZMotorCenterServerless#readme",
   "dependencies": {
     "@sendgrid/mail": "^8.1.6",
+    "express": "^5.2.1",
     "mongodb": "^7.1.1"
   }
 }
