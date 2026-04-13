@@ -6,7 +6,7 @@ export const procesarEnvioCorreo = async (email, tipo) => {
 
   switch (tipo) {
     case "bienvenida":
-      contenido = plantillaBienvenida();
+      contenido = plantillaBienvenido();
       break;
 
     case "compra":
